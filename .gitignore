@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+ENV/
+
+# Go
+bin/
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
